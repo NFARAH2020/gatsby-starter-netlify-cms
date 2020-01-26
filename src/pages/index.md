@@ -5,17 +5,12 @@ image: /img/first.jpg
 heading: Great coffee with a conscience
 subheading: We are a medical and nutritional science company.
 mainpitch:
-  title: Why Kaldi
+  title: Who we are
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    Our mission is to provide "tailored" nutrition advice – using lifestyle and
+    gut microbiome profiles – for people who want to lose weight and improve
+    their health.
+description: Science
 intro:
   blurbs:
     - image: /img/coffee.png
