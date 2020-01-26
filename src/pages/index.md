@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: INTEGRATIVE PHENOMICS
-image: /img/first.png
+image: /img/first.jpg
 heading: Great coffee with a conscience
 subheading: We are a medical and nutritional science company.
 mainpitch:
